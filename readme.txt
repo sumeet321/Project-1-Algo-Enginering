@@ -3,4 +3,4 @@ should also contain instructions on how to run your program."
 
 Elexzandreia Livermore, elexzandreia@csu.fullerton.edu
 Ahsan Amin, ahsanamin90@csu.fullerton.edu
-Sumeet 
+Sumeet Singh, sumeet321@csu.fullerton.edu
